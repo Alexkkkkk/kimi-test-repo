@@ -1,0 +1,3 @@
+# Hello from Kimi!
+
+Этот файл создан через GitHub API.
